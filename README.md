@@ -1,7 +1,10 @@
 # MasterMind
 Jeu éducatif pour enseignement
+
 -- Institut Supérieur des études technologiques de Mahdia,
+
 -- Département Technologies de l'Informatique
+
 -- Licence TI, parcourt Multimédia
 
 
